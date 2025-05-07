@@ -17,13 +17,13 @@ Computer and Informatics Engineer with a strong foundation in data analysis, sof
 - 🌵 I'm currently learning:
   - Python 🐍
   - Machine Learning 📖
-  - English 🇬🇧
+  - English (B1)
   - (Sometimes) Spring, React or Angular
 
-- 🕵🏼 I'm looking for opportunities where I can apply my knowledge in Data Engineering  
-- 🐶 I have two wonderful dogs: Nino & Rocky  
-- ✔ Ask me about anything — I'm happy to help  
-- 🎮 I enjoy playing video games with friends, listening to music while coding, watching anime, and reading manga  
+- 🕵🏼 I'm looking for opportunities where I can apply my knowledge in Data Engineering.
+- 🐶 I have two wonderful dogs: Nino & Rocky.
+- ✔ Ask me about anything — I'm happy to help. 
+- 🎮 I enjoy playing video games with friends, listening to music while coding, watching anime, and reading manga.
 - 📫 Reach out to me at: <a href="mailto:m.martinez.inge@gmail.com">m.martinez.inge@gmail.com</a>
 
 ---
