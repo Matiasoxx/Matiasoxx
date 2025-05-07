@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">
+  <b>Hi visitor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Matías Martínez <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM252Z2FnZzdnMjZxZ3hxZzRrYWd5MHZjMzV5YW9ndDBlY3h1ZmdlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0Iwmo4TUQXIxH44/giphy.gif" width="35"></b>
+</h1>
 
-<!--
-**Matiasoxx/Matiasoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate Data Engineer and Software Dev from Chile .</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlyamQ2czlpdGhxdGV3MjlzZjFpNmt6Z2N3YTRscWNyMzFxOG8wbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/754UnERgM1VGwl87hp/giphy.gif" width="300" alt="Computer-Man" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBlZzBrdmN1emR0Z2xranIwa2k0ZTl6dXZwbXNweWxxN2Q3NnR3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="30px">&nbsp;***About me***
+- 🌵 I'm currently learning...
+  - Python 🐍
+  - Machine Learning  📖
+  - English 
+- 🐶 I have two very beatiful dogs Nino & Rocky 
+- 
+- 
+- 
+
+---
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHl4eDJ1MHJpYWM3ZDFybTh4aXNzaGhnaHFiemRuaXp2c3MzYWd4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cgmru4hcBzTIoX8ate/giphy.gif" width="30px">&nbsp;***My Skills***
+
+### 💻 Languages
+<span>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</span>
+
+### 🧱 Frameworks
+<span>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  
+</span>
+
+### 🗄️ Databases
+<span>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
+
+### 🧰 IDEs
+<span>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</span>
+
+### ⚙️ Other Tools & Technologies
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+</span>
